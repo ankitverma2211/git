@@ -1,3 +1,5 @@
+
+hi hello 
 git practice
 
 this is how to learn git 
